@@ -1,0 +1,9 @@
+info:
+  namespace: serverlogo
+font_images:
+  serverlogo:
+    permission: serverlogo.use
+    show_in_gui: true
+    path: "serverlogo.png"
+    scale_ratio: 128
+    y_position: 64    
